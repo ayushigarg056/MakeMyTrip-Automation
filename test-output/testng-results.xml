@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="4" total="6" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-26T16:22:09 IST" name="Suite" finished-at="2021-05-26T16:23:09 IST" duration-ms="60044">
+    <groups>
+    </groups>
+    <test started-at="2021-05-26T16:22:09 IST" name="Test" finished-at="2021-05-26T16:23:09 IST" duration-ms="60044">
+      <class name="Login.Login">
+        <test-method signature="loging()[pri:0, instance:Login.Login@6d2a209c]" started-at="2021-05-26T16:22:09 IST" name="loging" finished-at="2021-05-26T16:22:19 IST" duration-ms="10037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loging -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:Login.Login@6d2a209c]" started-at="2021-05-26T16:22:19 IST" name="endTest" finished-at="2021-05-26T16:22:20 IST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- Login.Login -->
+      <class name="BookFlight.Flights">
+        <test-method signature="bookflight()[pri:1, instance:BookFlight.Flights@75329a49]" started-at="2021-05-26T16:22:20 IST" name="bookflight" finished-at="2021-05-26T16:23:09 IST" duration-ms="49614" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookflight -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:BookFlight.Flights@75329a49]" started-at="2021-05-26T16:23:09 IST" name="endTest" finished-at="2021-05-26T16:23:09 IST" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- BookFlight.Flights -->
+      <class name="MainPackage.MainClass">
+        <test-method is-config="true" signature="starting()[pri:0, instance:MainPackage.MainClass@5e316c74]" started-at="2021-05-26T16:21:55 IST" name="starting" finished-at="2021-05-26T16:22:09 IST" duration-ms="13976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- starting -->
+        <test-method is-config="true" signature="ending()[pri:0, instance:MainPackage.MainClass@5e316c74]" started-at="2021-05-26T16:23:09 IST" name="ending" finished-at="2021-05-26T16:23:11 IST" duration-ms="1403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ending -->
+      </class> <!-- MainPackage.MainClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
